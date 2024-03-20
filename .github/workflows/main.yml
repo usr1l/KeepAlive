@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '*/10 09-20 * * 1-5'
+    - cron: '*/08 09-19 * * 1-5'
 
   workflow_dispatch:
 
